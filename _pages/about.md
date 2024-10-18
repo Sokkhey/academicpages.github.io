@@ -9,6 +9,7 @@ redirect_from:
 
 Sokkhey Phauk graduated his Ph.D. from the Department of Interdisciplinary Intelligent Systems, Graduate School of Engineering and Science at the University of the Ryukyus, Japan. His research interests are predictive modeling, supervised learning, dimensional reduction, machine learning, and data mining. He is currently working on educational data mining and predictive modeling.
 A data-driven personal website
+
 ======
 This is for academic purpose
 
